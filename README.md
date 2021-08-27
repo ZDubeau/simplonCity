@@ -1,4 +1,4 @@
-# simplonVille
+# simplonCity
 Mobile App with React Native
 
 ### - install npm
